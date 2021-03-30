@@ -40,7 +40,7 @@ const Navbar = () => {
               <Link to="/starships"> Starships</Link>
             </Item>
             <Item whileHover={{ scale: 1.2 }}>
-              <Link to="/vechiles"> Vehicles</Link>
+              <Link to="/vehicles"> Vehicles</Link>
             </Item>
           </NavLinks>
         </Nav>
